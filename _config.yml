@@ -1,9 +1,9 @@
 # main text of home
 name: Naina Merine John
-bio: I breathe digital marketing.
+bio: Digital Marketing professional with a sweet tooth for problem-solving.
 
 # twitter summary info
-description: Digital Marketing professional with a sweet tooth for problem-solving.
+description: 
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,7 +54,7 @@ github: nainamerinejohn
 email: nainamerinejohn@gmail.com
 
 authors:
-    nmj:
+    nj:
         name: Naina Merine john
         bio: I breathe digital marketing.
         external-image: false
