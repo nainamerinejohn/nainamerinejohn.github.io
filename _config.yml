@@ -8,7 +8,7 @@ description: Digital Marketing professional with a sweet tooth for problem-solvi
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/naina.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Naina Merine john
         bio: I breathe digital marketing.
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/naina.jpg
         twitter: johndoe
     aj:
         name: Aravind AJ
